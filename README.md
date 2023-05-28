@@ -1,6 +1,8 @@
 # MOVIEKU
 web film seperti IMDB dan TheMovieDB dengan menggunakan api TheMovieDB, web ini dibuat dengan menerapkan `webpack` sebagai module bundler
 
+![image](./demo/demo.png)
+
 ## How To Use
 1. Clone proyek ini 
 2. Install Dependency
